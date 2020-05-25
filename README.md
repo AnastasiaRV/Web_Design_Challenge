@@ -1,6 +1,6 @@
 # Web_Design_Challenge
 
-# Find Web-Design [here](https://anastasiarv.github.io/Web_Design_Challenge/)
+## Find Results [here](https://anastasiarv.github.io/Web_Design_Challenge/)
 
 ## Requirements - Web Visualization Dashboard (Weather Analysis)
 
