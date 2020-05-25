@@ -2,11 +2,7 @@
 
 ## Find Website Results [here](https://anastasiarv.github.io/Web_Design_Challenge/)
 
-## Requirements - Web Visualization Dashboard (Weather Analysis)
-
-Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
-
-## Analysis Dashboard 
+## Requirements: Web Dashboard - Weather Analysis 
 
 Created a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
 
