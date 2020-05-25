@@ -2,9 +2,7 @@
 
 # You can test output web-design [here](https://anastasiarv.github.io/Web_Design_Challenge/)
 
-# Web Design - Web Visualization Dashboard (Weather Analysis)
-
-## Background Assignment
+## Web Design - Web Visualization Dashboard (Weather Analysis)
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
