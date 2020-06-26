@@ -1,4 +1,4 @@
-# Web_Design_Challenge
+# Web Design Challenge
 
 ## Find Results [here](https://anastasiarv.github.io/Web_Design_Challenge/)
 
